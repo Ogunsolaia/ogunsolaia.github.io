@@ -36,7 +36,6 @@ website:
 
   page-footer:
     left: "© 2026 Isqeel Adesegun Ogunsola"
-    right: "Built with [Quarto](https://quarto.org/) · Hosted on GitHub Pages"
 
   open-graph: true
 
