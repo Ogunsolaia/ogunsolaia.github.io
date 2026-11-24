@@ -1,0 +1,20 @@
+---
+title: "News"
+description: "Research and academic updates"
+---
+
+## November 2026
+
+**Associate Fellowship of Advance HE.** I was successful in my application for Associate Fellowship (AFHEA).
+
+## September 2026
+
+**spaci on CRAN.** The `spaci` R package became available on CRAN. [View package](https://cran.r-project.org/package=spaci).
+
+## February 2026
+
+**Spatial causal inference preprint.** *Disentangling spatial interference and spatial confounding biases in causal inference* became available as [arXiv:2602.02777](https://arxiv.org/abs/2602.02777).
+
+---
+
+*Edit this page as you publish papers, present talks, release software, or receive awards. Check dates before making the website public.*

@@ -1,0 +1,168 @@
+
+---
+title: "Teaching"
+subtitle: "Mathematics, Statistics and Higher Education"
+page-layout: article
+toc: true
+toc-depth: 2
+---
+
+## Teaching Overview
+
+I am an Associate Fellow of Advance HE (AFHEA) with teaching experience in mathematics, statistics, and statistical computing across higher education institutions in the United Kingdom and Nigeria.
+
+I currently work as a Graduate Teaching Assistant in the Department of Mathematics at the University of Manchester and Lecturer in the Department of Statistics at the Federal University of Agriculture, Abeokuta, Nigeria.
+
+My teaching experience spans foundation-year and undergraduate mathematics, probability theory, statistical inference, regression analysis, generalised linear models, experimental design, and statistical computing.
+
+I am particularly interested in helping students develop mathematical understanding, statistical reasoning, computational competence, and the confidence to apply these skills to real-world problems.
+
+## Teaching Philosophy
+
+My approach to teaching is centred on making statistics accessible, engaging, and relevant to students with different academic backgrounds and levels of confidence.
+
+I believe that effective statistical education should extend beyond mathematical derivations and computational procedures. Students should understand the reasoning behind statistical methods, the assumptions on which they depend, and the interpretation of their results.
+
+My teaching approach is guided by four principles:
+
+- **Conceptual understanding:** Helping students understand the underlying mathematical and statistical ideas rather than relying solely on memorisation.
+- **Active learning:** Encouraging participation, problem-solving, independent thinking, and discussion.
+- **Practical application:** Connecting theoretical concepts to real-world examples and computational exercises.
+- **Inclusive learning:** Recognising differences in students' prior knowledge, learning needs, and confidence, while providing appropriate academic support and constructive feedback.
+
+I aim to create a supportive learning environment in which students feel comfortable asking questions, exploring alternative solutions, and developing their analytical skills.
+
+## University of Manchester
+
+**Graduate Teaching Assistant | 2024–Present**
+
+Department of Mathematics, Faculty of Science and Engineering
+
+I support the delivery of foundation-year and undergraduate mathematics and statistics courses through tutorials, practical sessions, problem-solving activities, assessment support, and feedback.
+
+My responsibilities include facilitating student learning, explaining mathematical and statistical concepts, supporting computational exercises, marking assessments, providing constructive feedback, and contributing to examination-related activities.
+
+### Courses Supported
+
+| Course Code | Course Title | Academic Year |
+|:---|:---|:---|
+| MATH38171 | Generalised Linear Models | 2026–2027 |
+| MATH11711 | Probability I | 2025–2026 |
+| MATH19842 | Vector and Probability 0F2 | 2024–2025, 2025–2026 |
+| MATH11712 | Statistics I | 2024–2025 |
+
+In addition to course-specific teaching, I have contributed to Faculty of Science and Engineering examination script checking/ moderation during the 2024–2025 and 2025–2026 academic years.
+
+## Federal University of Agriculture, Abeokuta
+
+Department of Statistics, Nigeria
+
+**Lecturer | 2026– To date**
+
+**Assistant Lecturer | 2023–2024**
+
+**Graduate Assistant | 2019–2022**
+
+My teaching experience at the Federal University of Agriculture, Abeokuta, involved undergraduate statistics, statistical computing, practical laboratory sessions, and research supervision.
+
+I contributed to the delivery of theoretical and applied statistics courses, supported students in developing computational skills, and co-supervised undergraduate research projects.
+
+### Courses Taught
+
+| Course Code | Course Title |
+|:---|:---|
+| STS 104 | Introduction to Statistical Computing |
+| STS 181 | Probability 1 |
+| STS 181 | Probability 1 |
+| STS 213 | Distribution Theory I |
+| STS 201 | Statistics for Agric. & Biological Sciences |
+| STS 214 | Introduction to Socio-Economic Statistics |
+| STS 391 | Design and Analysis of Experiment I Lab |
+| STS 425 | Regression Analysis II |
+
+
+
+My responsibilities included:
+
+- Delivering undergraduate statistics lectures and practical sessions.
+- Co-supervising undergraduate research projects.
+- Supporting students in statistical modelling, interpretation, and research reporting.
+
+## Statistical Computing and Practical Education
+
+I consider statistical computing an important component of modern mathematics and statistics education.
+
+My teaching experience includes supporting students in the use of statistical software for data management, exploratory data analysis, statistical modelling, hypothesis testing, visualisation, and interpretation of results.
+
+I have experience teaching and supporting statistical analysis using:
+
+- R and RStudio.
+- IBM SPSS Statistics.
+- Microsoft Excel.
+
+I am particularly interested in integrating reproducible statistical computing into teaching, helping students connect mathematical theory with practical data analysis.
+
+My research experience in developing statistical methods and open-source software also informs my approach to computational statistics education.
+
+## Professional Teaching Recognition
+
+::: {.feature-card}
+
+### Associate Fellow of Advance HE (AFHEA)
+
+**Awarded: 10 November 2026**
+
+I am an Associate Fellow of Advance HE, awarded in recognition of my attainment against the Professional Standards Framework for teaching and supporting learning in higher education.
+
+This recognition reflects my experience in supporting student learning, developing effective teaching practices, providing constructive feedback, and engaging in professional development within higher education.
+
+[Learn more about Associate Fellowship](https://www.advance-he.ac.uk/fellowship/associate-fellowship)
+
+:::
+
+## Teaching and Professional Development
+
+I have completed Graduate Teaching Assistant training at the University of Manchester, covering the following areas:
+
+| Training Module | Title |
+|:---|:---|
+| FSESS8200 | Learning Outcomes and Lesson Plans |
+| FSESS8201 | Roles and Expectations |
+| FSESS8202 | Marking and Feedback |
+| FSESS8204 | Teaching Skills |
+| FSESS8206 | e-Learning and Blackboard |
+
+I am committed to continuing professional development in higher education, particularly in inclusive teaching, effective assessment and feedback, statistical education, and technology-enhanced learning.
+
+## Additional Teaching Experience
+
+Before my university teaching appointments, I gained experience in mathematics education and assessment through the following roles:
+
+| Institution | Position | Period |
+|:---|:---|:---|
+| Digital Bridge Institute, Lagos | Mathematics Instructor | 2018–2019 |
+| West African Examinations Council (WAEC) | Assistant Examiner in Mathematics | 2017–2021 |
+| Pinnacle Royal College | Mathematics Teacher | 2015–2017 |
+
+These experiences have contributed to my ability to communicate mathematical concepts to learners at different educational levels and with varying academic backgrounds.
+
+## Teaching Interests
+
+I am interested in teaching undergraduate and postgraduate courses in:
+
+- Probability Theory with Applications.
+- Regression Analysis and Generalised Linear Models.
+- Spatial and Spatiotemporal Statistics.
+- Causal Inference.
+- Statistical Computing with R.
+- Design and Analysis of Experiments.
+- Applied Statistics and Data Analysis.
+- Research Methods and Reproducible Research.
+
+
+
+## Teaching Enquiries
+
+I opened to teaching, research and postdoc opportunities.
+
+For teaching-related enquiries, please contact me at [isqeel.ogunsola@manchester.ac.uk](mailto:isqeel.ogunsola@manchester.ac.uk).

@@ -1,0 +1,49 @@
+
+---
+title: " "
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-grid}
+::: {.profile-panel}
+
+![Isqeel Ogunsola](assets/profile.JPG){.profile-photo}
+
+**PhD Researcher in Statistics**  
+University of Manchester, United Kingdom
+
+Associate Fellow of Advance HE (AFHEA)
+
+[Google Scholar](https://scholar.google.com/citations?user=b1FDqykAAAAJ&hl=en) · [GitHub](https://github.com/Ogunsolaia) · [ORCID](https://orcid.org/0000-0003-2272-1530) · [CV](cv.qmd)
+
+[isqeel.ogunsola@manchester.ac.uk](mailto:isqeel.ogunsola@manchester.ac.uk)
+
+:::
+::: {.hero-copy}
+
+# Isqeel Ogunsola
+
+::: {.professional-title}
+Spatial Causal Inference Methodologist | Applied Statistician
+:::
+
+I am a PhD researcher in the School of Mathematics (Statistics group) at the University of Manchester, specialising in causal inference and spatial statistics. My research focuses on developing statistical methods for estimating causal effects from observational data in the presence of spatial confounding and interference.
+
+My work combines causal inference, spatial statistical modelling, methodological development, simulation studies, and statistical computing, with applications in environmental and public health research.
+
+I am a co-developer and maintainer of spaci, an R package available on CRAN and GitHub. I am a recipient of the Dean’s Doctoral Scholarship and the Medical Research Council (MRC) Scholarship. I am also an Associate Fellow of Advance HE (AFHEA), a Graduate Teaching Assistant at the University of Manchester, and a Lecturer at the Federal University of Agriculture, Abeokuta.
+
+[Explore my research](research.qmd){.btn .btn-outline-primary} [View publications](publications.qmd){.btn .btn-outline-primary}
+
+## Research Interests
+
+I am interested in causal inference methods for observational data, spatial and spatiotemporal statistics, health statistics, statistical methodology for clinical trials, and applied statistics.
+
+
+
+:::
+:::
+:::

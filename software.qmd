@@ -1,0 +1,33 @@
+---
+title: "Software"
+description: "Open-source research software"
+---
+
+## spaci: Spatial causal inference under confounding and interference
+
+**spaci** is an R package for estimating causal effects from spatial observational data when spatial confounding and spatial interference may occur simultaneously.
+
+- [GitHub repository](https://github.com/Ogunsolaia/spaci)
+- [CRAN package page](https://cran.r-project.org/package=spaci)
+
+### Main methods
+
+**iDAPS** (`idaps()`): a distance-adjusted propensity-score matching approach incorporating spatial and neighbourhood exposure information.
+
+**RecoverU+** (`recoveru_plus()`): an approach incorporating partially recovered spatial confounding and neighbourhood exposure in causal effect estimation.
+
+### Installation
+
+```{.r}
+install.packages("spaci")
+library(spaci)
+packageVersion("spaci")
+```
+
+### Start exploring
+
+Consult the package documentation and GitHub README for the current function signatures and examples. The exact API may change across releases.
+
+### Reproducible research
+
+My software work aims to make methodological research accessible through documented R functions, simulation tools, and reproducible examples.

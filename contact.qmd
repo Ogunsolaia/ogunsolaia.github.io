@@ -1,0 +1,46 @@
+
+---
+title: "Contact"
+description: "Academic contact and professional profiles"
+page-layout: article
+toc: false
+---
+
+I welcome enquiries about research collaborations, statistical methodology, spatial causal inference, environmental and public health research, teaching, and open-source statistical software development.
+
+## Academic Contact
+
+**Isqeel Adesegun Ogunsola, AFHEA**  
+PhD Researcher in Statistics  
+Department of Mathematics  
+The University of Manchester  
+Alan Turing Building, Oxford Road  
+Manchester, M13 9PL, United Kingdom
+
+**Email:** [isqeel.ogunsola@manchester.ac.uk](mailto:isqeel.ogunsola@manchester.ac.uk)
+
+## Academic and Professional Profiles
+
+- **University of Manchester:** [Institutional Research Profile](https://research.manchester.ac.uk/en/persons/isqeel-ogunsola/)
+- **Google Scholar:** [Publications and Citations](https://scholar.google.com/citations?user=b1FDqykAAAAJ&hl=en)
+- **ORCID:** [0000-0003-2272-1530](https://orcid.org/0000-0003-2272-1530)
+- **LinkedIn:** [Professional Profile](https://uk.linkedin.com/in/isqeel-ogunsola-afhe-b33a8a13b)
+- **ResearchGate:** [Research Profile](https://www.researchgate.net/profile/Isqeel-Ogunsola)
+- **GitHub:** [Research Code and Software](https://github.com/Ogunsolaia)
+
+## Research Software
+
+- **spaci:** [CRAN Package](https://cran.r-project.org/package=spaci)
+- **Source Code:** [GitHub Repository](https://github.com/Ogunsolaia/spaci)
+- **Software DOI:** [10.32614/CRAN.package.spaci](https://doi.org/10.32614/CRAN.package.spaci)
+- **Technical Enquiries and Bug Reports:** [GitHub Issues](https://github.com/Ogunsolaia/spaci/issues)
+
+## Research and Collaboration
+
+I am particularly interested in collaborative opportunities in causal inference for observational data, spatial and spatiotemporal statistics, environmental and health statistics, statistical methodology for clinical trials, and statistical computing.
+
+I also welcome enquiries regarding research seminars, invited talks, statistical consulting, methodological collaborations, and academic teaching.
+
+[Contact me by email](mailto:isqeel.ogunsola@manchester.ac.uk){.btn .btn-primary}
+[Connect on LinkedIn](https://uk.linkedin.com/in/isqeel-ogunsola-afhe-b33a8a13b){.btn .btn-outline-primary}
+[View my CV](cv.qmd){.btn .btn-outline-primary}

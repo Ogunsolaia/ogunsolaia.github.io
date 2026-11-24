@@ -1,0 +1,84 @@
+
+---
+title: "Publications"
+subtitle: "Journal Articles, Preprints and Conference Proceedings"
+page-layout: article
+toc: true
+toc-depth: 2
+---
+
+My publications cover spatial causal inference, spatiotemporal statistics, statistical distribution theory, and applied statistical modelling, with applications in environmental science, public health, and related fields.
+
+For an updated publication and citation record, visit my [Google Scholar](https://scholar.google.com/citations?user=b1FDqykAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0003-2272-1530) profile.
+
+## Peer-Reviewed Journal Articles
+
+### 2026
+
+1. Hassan, M., Nadarajah, S., and **Ogunsola, I.** (2026). Spatiotemporal dynamics and fatality risk patterns of road traffic crashes in Nigeria (2020–2024). *Discover Sustainability*.  
+   **DOI:** [10.1007/s43621-026-04760-y](https://doi.org/10.1007/s43621-026-04760-y)
+
+2. **Ogunsola, I. A.**, Ajadi, N. A., and Adepoju, G. D. (2026). A novel three parameters extended Weibull distribution with application using engineering data. *Scientific Reports*, **16**, 29819.  
+   **DOI:** [10.1038/s41598-026-57513-2](https://doi.org/10.1038/s41598-026-57513-2)
+
+3. Ajadi, N. A., Afolabi, S. O., Adenekan, I. O., Jimoh, A. O., Ajayi, A. O., Adeniran, T. A., Adepoju, G. D., Hassan, N. F., Ajadi, S. A., and **Ogunsola, I. A.** (2026). Multimodal deep learning for structural heart disease prediction from ECG and clinical data. *Smart Health*. Published online.  
+   **DOI:** [10.1016/j.smhl.2026.100703](https://doi.org/10.1016/j.smhl.2026.100703)
+
+### 2024
+
+4. Apantaku, F. S., Ogbaola, E. O., **Ogunsola, I. A.**, Dawodu, G. A., and Agwuegbo, S. O. N. (2024). Modelling Nigeria's gross domestic product: A modified vector autoregressive model (MVAR) approach. *International Journal of Science for Global Sustainability*, **10**(2), 197–205.  
+   **DOI:** [10.57233/ijsgs.v10i2.666](https://doi.org/10.57233/ijsgs.v10i2.666)
+
+5. Dawodu, G. A., Oyelere, O. M., Ariyo, O. S., and **Ogunsola, I. A.** (2024). An improved beta ridge-type estimator for regression problem. *International Journal of Science for Global Sustainability*, **10**(2), 206–212.  
+   **DOI:** [10.57233/ijsgs.v10i2.667](https://doi.org/10.57233/ijsgs.v10i2.667)
+
+### 2023
+
+6. **Ogunsola, I. A.**, Dawodu, G. A., Soyinka, A. T., Osinuga, I. A., and Adetona, B. O. (2023). Transmuted logistic-exponential distribution for modelling lifetime data. *Thailand Statistician*, **21**(4), 943–960.  
+   **Article:** [Journal publication](https://ph02.tci-thaijo.org/index.php/thaistat/article/view/251070)
+
+### 2021
+
+7. Olayiwola, O. M., Adekeye, K. S., Apantaku, F. S., Ajayi, A. O., Wale-Orojo, O. A., **Ogunsola, I. A.**, and Hammed, B. (2021). Integration of Bayesian model and adaptive clustered sampling into contact tracing to curb the spread of COVID-19 cases. *FUDMA Journal of Sciences*, **5**(1), 76–84.  
+   **DOI:** [10.33003/fjs-2021-0501-539](https://doi.org/10.33003/fjs-2021-0501-539)
+
+8. Olayiwola, O. M., Apantaku, F. S., Imarhia, F. O., Yusuff, K. M., **Ogunsola, I. A.**, and Olawoore, S. A. (2021). A modified estimator for population parameters in the presence of outliers. *UNIPORT Journal of Engineering and Scientific Research*, **6**(1), 85–89.  
+   **Article:** [Journal PDF](https://www.ujesr.org/images/vol6/Article-11.pdf)
+
+### 2020
+
+9. **Ogunsola, I. A.**, Akinpeloye, J. O., and Dada, L. A. (2020). Probability distribution fitting to maternal mortality in Nigeria. *International Journal of Mathematical Modelling & Computations*, **10**(2), 125–132.  
+   **Article:** [Journal publication](https://oiccpress.com/ijm2c/article/view/11064)
+
+10. Ajadi, N., **Ogunsola, I.**, and Damisa, S. (2020). Modelling the occurrence of the novel pandemic COVID-19 outbreak in Nigeria: A Box and Jenkins approach. *International Journal of Mathematical Modelling & Computations*, **10**(3), 239–248.  
+    **Article:** [Journal publication](https://oiccpress.com/ijm2c/article/view/11071)  
+    **Preprint DOI:** [10.1101/2020.06.15.20131136](https://doi.org/10.1101/2020.06.15.20131136)
+
+11. **Ogunsola, I. A.**, Olayiwola, O. M., and Sowola, B. O. (2020). Modeling unemployment rates in Nigeria using time series approach. *Asian Journal of Mathematical Sciences*, **10**(2).  
+    **Article:** [SSRN record](https://ssrn.com/abstract=3813692)
+
+12. Dawodu, G. A., **Ogunsola, I. A.**, and Asiribo, O. E. (2020). Hierarchical clustering and the determination of maturity in trees. *Pacific Journal of Science and Technology*, **21**(1), 121–127.  
+    **Article:** [Full text](http://www.akamaiuniversity.us/PJST21_1_121.pdf)
+
+## Preprints and Working Papers
+
+1. **Ogunsola, I.**, and Johnson, O. (2026). A unified framework for estimating direct causal effect under spatial confounding and interference, with the R package spaci. *arXiv preprint*, arXiv:2609.28799.  
+   **DOI:** [10.48550/arXiv.2609.28799](https://doi.org/10.48550/arXiv.2609.28799)
+
+2. **Ogunsola, I. A.**, and Johnson, O. (2026). Disentangling spatial interference and spatial confounding biases in causal inference. *arXiv preprint*, arXiv:2602.02777.  
+   **DOI:** [10.48550/arXiv.2602.02777](https://doi.org/10.48550/arXiv.2602.02777)
+
+3. **Ogunsola, I. A.**, Ajadi, N. A., and Adepoju, G. D. (2026). A new SMP transformed standard Weibull distribution for health data modelling. *arXiv preprint*, arXiv:2602.14303.  
+   **DOI:** [10.48550/arXiv.2602.14303](https://doi.org/10.48550/arXiv.2602.14303)
+
+## Conference Proceedings
+
+1. Abibu, W. A., Sakariyau, A. O., Bamigbade, G. B., Oyebisi, A. K., and **Ogunsola, I.** (2021). Consumer perception of ready-to-eat fruits sold in Ogun and Lagos, Nigeria during the COVID-19 pandemic. *Proceedings of the 5th International Student Science Congress*, Izmir Katip Celebi University, Turkey, pp. 1–9.  
+   **Proceedings:** [Conference publication](https://sciencecon.org/consumer-perception-of-ready-to-eat-fruits-sold-in-ogun-and-lagos-nigeria-during-the-covid-19-pandemic-abibu-bamigbade-oyebisi-ogunsola-sakariyau/)
+
+## Research Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=b1FDqykAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0003-2272-1530)
+- [University of Manchester Research Profile](https://research.manchester.ac.uk/en/persons/isqeel-ogunsola/)
+- [GitHub](https://github.com/Ogunsolaia)

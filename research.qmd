@@ -1,0 +1,142 @@
+
+---
+title: "Research"
+subtitle: "Causal Inference, Spatial Statistics and Statistical Modelling"
+page-layout: article
+toc: true
+toc-depth: 2
+---
+
+## Research Overview
+
+My research cut across causal inference, spatial statistics, statistical methodology, and applied statistical modelling.
+
+My doctoral research focuses on developing methods for estimating causal effects from spatial observational data, particularly when unmeasured spatial confounding and interference occur simultaneously. I am interested in understanding the biases introduced by these features, establishing conditions under which causal effects can be identified, and developing estimators with reliable statistical and computational properties.
+
+Beyond causal inference, my research includes spatiotemporal analysis, statistical distribution theory, and applications to environmental health, road safety, epidemiology, and other public health problems.
+
+My work combines mathematical derivations, statistical modelling, simulation studies, empirical data analysis, and reproducible statistical computing.
+
+## Spatial Causal Inference
+
+### Spatial Confounding and Interference
+
+Spatial confounding arises when geographically structured factors influence both treatment assignment and outcomes. Spatial interference occurs when treatment or exposure at one location affects outcomes at other locations.
+
+These features are common in environmental, agricultural, and public health studies. However, conventional causal inference methods may fail to account adequately for their joint effects.
+
+A central part of my doctoral research investigates the consequences of these violations for causal effect estimation.
+
+In *Disentangling Spatial Interference and Spatial Confounding Biases in Causal Inference*, co-authored with Olatunji Johnson, we examine direct and indirect spatial confounding and spatial interference from a causal graphical and analytical perspective.
+
+The study derives bias expressions under specified spatial and distributional assumptions, including settings beyond conventional Gaussian models, and examines how spatial weights, exposure distributions, and interference mechanisms influence estimation bias.
+
+[Read the preprint](https://doi.org/10.48550/arXiv.2602.02777)
+
+### A Unified Framework for Spatial Causal Effect Estimation
+
+Building on this theoretical work, I have co-developed a unified framework for estimating direct causal effects when spatial confounding and interference occur together.
+
+Our preprint, *A Unified Framework for Estimating Direct Causal Effect Under Spatial Confounding and Interference, with the R Package spaci*, develops and investigates two complementary estimators:
+
+**iDAPS (Interference-Adjusted Distance-Adjusted Propensity Score Matching)** combines propensity score similarity, geographical proximity, and neighbourhood exposure information in a matching framework. The method uses balance-optimised weights to construct comparisons between treated and control units.
+
+**RecoverU+** extends spatial confounder recovery methods by incorporating neighbourhood exposure into propensity score and outcome modelling. The method is designed to address latent spatial confounding and interference within a doubly robust estimation framework, subject to the assumptions and residual bias conditions established in the paper.
+
+The framework also examines identification, estimator bias, consistency, and uncertainty quantification under spatial dependence.
+
+Simulation studies evaluate the proposed estimators under different spatial confounding and interference mechanisms. An empirical application investigates the effects of industrial emission-control technologies on ambient ozone concentrations.
+
+The methods are implemented in the open-source R package **spaci**.
+
+[Read the unified framework preprint](https://doi.org/10.48550/arXiv.2609.28799)
+
+## Spatiotemporal Statistical Modelling
+
+### Road Traffic Crashes and Fatality Risk in Nigeria
+
+My research also examines how statistical methods can be used to understand geographical and temporal patterns in public health and safety outcomes.
+
+In *Spatiotemporal Dynamics and Fatality Risk Patterns of Road Traffic Crashes in Nigeria (2020–2024)*, co-authored with Mukhtar Hassan and Saralees Nadarajah, we investigate the spatial distribution, temporal trends, and severity of reported road traffic crashes across Nigeria.
+
+Using quarterly Federal Road Safety Corps data covering Nigeria's 36 states and the Federal Capital Territory, the study examines variation in crash occurrence and fatality risk between geographical areas and over time.
+
+The analysis provides evidence on the distribution and evolution of road traffic crashes and highlights the importance of geographically informed road safety planning.
+
+This research reflects my broader interest in applying spatial and temporal statistical methods to problems with implications for population health and public policy.
+
+**Published in:** *Discover Sustainability* (2026).
+
+[Read the published article](https://doi.org/10.1007/s43621-026-04760-y)
+
+## Statistical Distribution Theory and Applied Modelling
+
+Alongside my doctoral research, I have contributed to the development and application of statistical probability distributions and other modelling approaches.
+
+### Probability Distribution Development
+
+My work in statistical distribution theory investigates flexible probability models for data exhibiting different distributional shapes, tail behaviours, and hazard-rate patterns.
+
+This includes research on the transmuted logistic-exponential distribution and extensions of the Weibull family.
+
+These studies involve deriving mathematical properties, developing parameter estimation procedures, evaluating model performance, and applying the proposed distributions to empirical datasets.
+
+Selected contributions include:
+
+- *A Novel Three Parameters Extended Weibull Distribution with Application Using Engineering Data* — *Scientific Reports* (2026).
+- *Transmuted Logistic-Exponential Distribution for Modelling Lifetime Data* — *Thailand Statistician* (2023).
+
+[Extended Weibull article](https://doi.org/10.1038/s41598-026-57513-2)
+
+### Epidemiological and Other Applied Statistical Research
+
+My broader statistical research includes applications of probability modelling, regression analysis, and time series methods to health and socioeconomic data.
+
+Previous research has examined maternal mortality in Nigeria, infectious disease patterns, COVID-19 dynamics, and unemployment trends.
+
+These projects have contributed to my experience in developing statistical models, evaluating assumptions, analysing observational datasets, and communicating findings across different application areas.
+
+Further details are available on my [Publications page](publications.qmd).
+
+## Environmental and Population Health Research
+
+### Climate-Related Environmental Stressors and Healthy Life Expectancy
+
+An ongoing direction of my research concerns the causal effects of climate-related environmental exposures on population health.
+
+I am particularly interested in temperature variability, air pollution, precipitation, and other environmental stressors that exhibit spatial dependence and may generate spillover effects across geographical areas.
+
+My current applied research investigates how spatial causal inference methods can be used to estimate the effects of these exposures on healthy life expectancy in England.
+
+The project considers the challenges posed by unmeasured spatial confounding, neighbourhood exposure, and geographical heterogeneity in causal effects.
+
+The aim is to contribute statistical methods and empirical evidence relevant to environmental health research and public health decision-making.
+
+## Statistical Software and Reproducible Research
+
+I am interested in making statistical methodology accessible through reliable and reproducible computational tools.
+
+I am a developer and co-author of **spaci**, an open-source R package for estimating causal effects under spatial confounding and interference.
+
+The package implements iDAPS and RecoverU+, alongside comparison methods and simulation tools for methodological evaluation.
+
+It supports the practical application of the unified causal inference framework developed in my doctoral research.
+
+[CRAN](https://cran.r-project.org/package=spaci) · [GitHub](https://github.com/Ogunsolaia/spaci) · [Software page](software.qmd)
+
+## Current and Future Research Directions
+
+My developing research interests include:
+
+- Causal identification and estimation under spatial confounding and interference.
+- Causal mediation analysis with spatially structured confounding and interference.
+- Spatiotemporal modelling of environmental and public health outcomes.
+- Reproducible statistical software and computational methodology.
+
+My longer-term objective is to develop statistically principled and computationally accessible methods for drawing reliable causal conclusions from complex observational data.
+
+## Research Collaboration
+
+I welcome opportunities to collaborate with researchers in causal inference, spatial statistics, epidemiology, environmental health, and related areas.
+
+For research enquiries, please contact me at [isqeel.ogunsola@manchester.ac.uk](mailto:isqeel.ogunsola@manchester.ac.uk).

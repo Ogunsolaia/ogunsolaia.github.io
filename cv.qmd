@@ -1,0 +1,300 @@
+
+---
+title: "Curriculum Vitae"
+subtitle: "Academic Qualifications, Research and Professional Experience"
+page-layout: article
+toc: true
+toc-depth: 2
+---
+
+# Isqeel Adesegun Ogunsola, AFHEA
+
+**Doctoral Researcher | Statistical Methodologist | Applied Statistician**
+
+Department of Mathematics, University of Manchester, United Kingdom.
+
+[Email](mailto:isqeel.ogunsola@manchester.ac.uk) · [Google Scholar](https://scholar.google.com/citations?user=b1FDqykAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-2272-1530) · [GitHub](https://github.com/Ogunsolaia)
+
+## Academic Profile
+
+I am a doctoral researcher in Statistics at the University of Manchester, specialising in spatial causal inference, statistical methodology, and applied statistical modelling.
+
+My research focuses on developing methods for causal effect estimation from observational data in the presence of spatial confounding and interference. My broader research interests include spatiotemporal statistics, probability distribution theory, environmental health, and reproducible statistical computing.
+
+I have university teaching experience in the United Kingdom and Nigeria and hold Associate Fellowship of Advance HE (AFHEA). I am also a developer and co-author of the open-source R package spaci.
+
+## Education
+
+### University of Manchester, United Kingdom
+
+**PhD in Statistics | September 2024–Present**
+
+Department of Mathematics
+
+- Research area: Spatial causal inference.
+- Research focus: Causal effect estimation under spatial confounding and interference.
+- Funding: Dean's Doctoral Scholarship.
+- Expected completion: 2027.
+
+### University of Leeds, United Kingdom
+
+**MSc in Statistics | 2022**
+
+- Classification: Merit.
+- Dissertation: *Reverse-Bayes Analysis for Clinical Trials*.
+
+### Federal University of Agriculture, Abeokuta, Nigeria
+
+**BSc in Statistics | 2015**
+
+- Classification: First Class Honours.
+- Research project: *Modelling Unemployment Rates in Nigeria Using Time Series Approach*.
+- Senate Prize for Best Graduating Student in the Department of Statistics.
+
+## Academic and Professional Appointments
+
+| Period | Position | Institution |
+|:---|:---|:---|
+| 2024–Present | Doctoral Researcher | University of Manchester, UK |
+| 2024–Present | Graduate Teaching Assistant | University of Manchester, UK |
+| 2023–2024 | Assistant Lecturer | Federal University of Agriculture, Abeokuta, Nigeria |
+| 2022 | Statistician | Alpha Plus Consultancy Limited, UK |
+| 2019–2022 | Graduate Assistant | Federal University of Agriculture, Abeokuta, Nigeria |
+| 2018–2019 | Mathematics Instructor | Digital Bridge Institute, Lagos, Nigeria |
+| 2017–2021 | Assistant Examiner in Mathematics | West African Examinations Council |
+| 2015–2017 | Mathematics Teacher | Pinnacle Royal College, Nigeria |
+
+## Research Interests
+
+- Causal inference from observational data.
+- Spatial confounding and spatial interference.
+- Spatial and spatiotemporal statistics.
+- Causal mediation and spillover effects.
+- Statistical methodology and probability distribution theory.
+- Environmental and population health statistics.
+- Statistical computing and reproducible research.
+
+Further information about my methodological contributions and ongoing research is available on my [Research page](research.qmd).
+
+## Research Contributions
+
+My doctoral research investigates the joint consequences of spatial confounding and interference for causal effect estimation.
+
+My methodological contributions include:
+
+- Analytical investigation and decomposition of biases arising from spatial confounding and interference.
+- Development of iDAPS, a matching-based approach incorporating propensity score similarity, geographical proximity, and neighbourhood treatment exposure.
+- Development of RecoverU+, an approach incorporating spatial confounder recovery and neighbourhood exposure within a causal estimation framework.
+- Development and computational implementation of a unified framework for estimating direct causal effects under spatial confounding and interference.
+
+My broader research includes spatiotemporal modelling of road traffic crashes, statistical distribution development, and applications of statistical methods to health and socioeconomic data.
+
+## Selected Publications
+
+### Spatial Causal Inference
+
+- **Ogunsola, I. A.**, and Johnson, O. (2026). A unified framework for estimating direct causal effect under spatial confounding and interference, with the R package spaci. *arXiv preprint*. [DOI](https://doi.org/10.48550/arXiv.2609.28799)
+
+- **Ogunsola, I. A.**, and Johnson, O. (2026). Disentangling spatial interference and spatial confounding biases in causal inference. *arXiv preprint*. [DOI](https://doi.org/10.48550/arXiv.2602.02777)
+
+### Spatiotemporal Statistics
+
+- Hassan, M., Nadarajah, S., and **Ogunsola, I.** (2026). Spatiotemporal dynamics and fatality risk patterns of road traffic crashes in Nigeria (2020–2024). *Discover Sustainability*. [DOI](https://doi.org/10.1007/s43621-026-04760-y)
+
+### Statistical Methodology
+
+- **Ogunsola, I. A.**, Ajadi, N. A., and Adepoju, G. D. (2026). A novel three parameters extended Weibull distribution with application using engineering data. *Scientific Reports*. [DOI](https://doi.org/10.1038/s41598-026-57513-2)
+
+- **Ogunsola, I. A.**, Dawodu, G. A., Soyinka, A. T., Osinuga, I. A., and Adetona, B. O. (2023). Transmuted logistic-exponential distribution for modelling lifetime data. *Thailand Statistician*, 21(4), 943–960.
+
+A more comprehensive list of my journal articles, preprints, and conference proceedings is available on my [Publications page](publications.qmd).
+
+## Research Software
+
+::: {.feature-card}
+
+### spaci
+
+**Causal Effect Estimation Under Spatial Confounding and Interference**
+
+Open-source R package for causal effect estimation using spatial observational data.
+
+The package implements iDAPS and RecoverU+, alongside comparison estimators and simulation tools for methodological evaluation.
+
+- Role: Developer, co-author, and maintainer.
+- Initial CRAN publication: September 2026.
+- Programming language: R.
+
+[CRAN](https://cran.r-project.org/package=spaci) · [GitHub](https://github.com/Ogunsolaia/spaci) · [Software page](software.qmd)
+
+:::
+
+## Teaching Experience
+
+### University of Manchester
+
+**Graduate Teaching Assistant | 2024–Present**
+
+Faculty of Science and Engineering, Department of Mathematics.
+
+| Course Code | Course Title | Academic Year |
+|:---|:---|:---|
+| MATH38171 | Generalised Linear Models | 2026–2027 |
+| MATH11711 | Probability I | 2025–2026 |
+| MATH19842 | Vector and Probability 0F2 | 2024–2025, 2025–2026 |
+| MATH11712 | Statistics I | 2024–2025 |
+
+Additional responsibilities include tutorials, statistical computing practicals, assessment support, marking, feedback, and Faculty of Science and Engineering examination script checking.
+
+### Federal University of Agriculture, Abeokuta
+
+**Lecturer | 2026– To date**
+
+**Assistant Lecturer | 2023–2024**
+
+**Graduate Assistant | 2019–2022**
+
+Department of Statistics.
+
+
+| Course Code | Course Title |
+|:---|:---|
+| STS 104 | Introduction to Statistical Computing |
+| STS 181 | Probability 1 |
+| STS 181 | Probability 1 |
+| STS 213 | Distribution Theory I |
+| STS 201 | Statistics for Agric. & Biological Sciences |
+| STS 214 | Introduction to Socio-Economic Statistics |
+| STS 391 | Design and Analysis of Experiment I Lab |
+| STS 425 | Regression Analysis II |
+
+Additional responsibilities included undergraduate research co-supervision and supporting students in statistical computing using R, SPSS, and Microsoft Excel.
+
+Further information is available on my [Teaching page](teaching.qmd).
+
+## Professional Teaching Recognition
+
+**Associate Fellow of Advance HE (AFHEA)**
+
+Awarded 10 November 2026.
+
+Professional recognition of attainment against the Professional Standards Framework for teaching and supporting learning in higher education.
+
+[Advance HE](https://www.advance-he.ac.uk/)
+
+## Scholarships, Prizes and Honours
+
+| Year | Award |
+|:---|:---|
+| 2024 | Dean's Doctoral Scholarship, University of Manchester, United Kingdom |
+| 2023 | Best Graduating Master's Student Prize, Department of Statistics, Federal University of Agriculture, Abeokuta |
+| 2015 | Senate Prize for Best Graduating Student, Department of Statistics, Federal University of Agriculture, Abeokuta |
+
+## Professional Statistical Experience
+
+### Alpha Plus Consultancy Limited, United Kingdom
+
+**Statistician | 2022**
+
+I contributed to the statistical analysis of professional medical examinations, including examinations associated with the Royal College of General Practitioners (RCGP) and the Nursing and Midwifery Council (NMC).
+
+This role provided experience in applied statistical analysis within professional assessment and educational measurement settings.
+
+## Conferences and Professional Development
+
+I have participated in academic conferences, statistical training programmes, and research-related professional development activities in the United Kingdom, Nigeria, and Spain.
+
+### Statistical Training
+
+**2024–2025**
+
+Participated in professional statistical training programmes at:
+
+- Durham University.
+- University of Bristol.
+- University of Southampton.
+- University of Oxford.
+
+### Graduate Teaching Assistant Training
+
+**University of Manchester | 2024**
+
+| Module Code | Training Title |
+|:---|:---|
+| FSESS8200 | Learning Outcomes & Lesson Plans |
+| FSESS8201 | Roles & Expectations |
+| FSESS8202 | Marking & Feedback |
+| FSESS8204 | Teaching Skills |
+| FSESS8206 | e-Learning & Blackboard |
+
+### Academic Conferences
+
+**2021**
+
+Royal Statistical Society Nigeria Local Group Conference, Federal University of Agriculture, Abeokuta, Nigeria.
+
+## Academic and Professional Service
+
+### Journal Peer Review
+
+- Reviewer, *Informatics and Health* (2024–Present).
+- Reviewer, *Thailand Statistician* (2025–Present).
+
+### Professional Memberships
+
+- Royal Statistical Society, United Kingdom (2025–Present).
+- International Biometric Society (2025–Present).
+
+## Technical and Research Skills
+
+::: {.feature-grid}
+
+::: {.feature-card}
+### Statistical Methodology
+
+- Causal inference
+- Spatial statistics
+- Regression modelling
+- Probability distribution theory
+- Time series analysis
+- Experimental design
+- Simulation studies
+:::
+
+::: {.feature-card}
+### Statistical Computing
+
+- R and RStudio
+- R package development
+- IBM SPSS Statistics
+- Microsoft Excel
+- Statistical visualisation
+- Reproducible data analysis
+:::
+
+::: {.feature-card}
+### Research and Academic Tools
+
+- LaTeX and Overleaf
+- Quarto
+- Git and GitHub
+- Academic writing
+- Research documentation
+- Computational reproducibility
+:::
+
+:::
+
+## Academic Collaboration
+
+I welcome opportunities for research collaboration, statistical consultancy, academic teaching, methodological development, and interdisciplinary research.
+
+**Email:** [isqeel.ogunsola@manchester.ac.uk](mailto:isqeel.ogunsola@manchester.ac.uk)
+
+**ORCID:** [0000-0003-2272-1530](https://orcid.org/0000-0003-2272-1530)
+
+**Google Scholar:** [Research profile](https://scholar.google.com/citations?user=b1FDqykAAAAJ&hl=en)
+
+---
+
+*Last updated: November 2026.*
